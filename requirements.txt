@@ -1,0 +1,5 @@
+requests
+mem0ai
+python-dotenv
+firecrawl-py
+langfuse
